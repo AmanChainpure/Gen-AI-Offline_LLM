@@ -1,0 +1,5 @@
+langchain==0.0.339
+PyPDF2
+transformers
+sentence_transformers
+PyMuPDF
